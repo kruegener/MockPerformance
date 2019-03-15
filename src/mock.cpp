@@ -5,7 +5,7 @@
 #include "mock.h"
 #include <iostream>
 
-float commit_bias = 3.0;
+float commit_bias = 3.1;
 
 int main(){
 
