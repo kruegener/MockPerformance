@@ -1,4 +1,4 @@
 
 project(mockPerformance)
 
-add_executable(mock mock.cpp)
+add_executable(mock src/mock.cpp)
